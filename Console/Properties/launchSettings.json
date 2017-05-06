@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Mmu.Hji.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\MyGit\\Personal\\ng-vsts\\dist"
+    }
+  }
+}
