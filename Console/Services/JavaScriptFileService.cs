@@ -12,7 +12,7 @@ namespace Mmu.Hji.Console.Services
             //"polyfills.bundle.js",
             //"styles.bundle.js",
             //"vendor.bundle.js",
-            "main.bundle.js"
+            //"main.bundle.js"
         };
         private readonly string[] _jsFilePaths;
 

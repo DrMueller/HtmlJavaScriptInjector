@@ -1,0 +1,9 @@
+C:\MyGit\Personal\HtmlJavaScriptInjector\Console\bin\Release\netcoreapp1.1\Mmu.Hji.Console.deps.json
+C:\MyGit\Personal\HtmlJavaScriptInjector\Console\bin\Release\netcoreapp1.1\Mmu.Hji.Console.runtimeconfig.json
+C:\MyGit\Personal\HtmlJavaScriptInjector\Console\bin\Release\netcoreapp1.1\Mmu.Hji.Console.runtimeconfig.dev.json
+C:\MyGit\Personal\HtmlJavaScriptInjector\Console\bin\Release\netcoreapp1.1\Mmu.Hji.Console.dll
+C:\MyGit\Personal\HtmlJavaScriptInjector\Console\bin\Release\netcoreapp1.1\Mmu.Hji.Console.pdb
+C:\MyGit\Personal\HtmlJavaScriptInjector\Console\obj\Release\netcoreapp1.1\Mmu.Hji.Console.AssemblyInfo.cs
+C:\MyGit\Personal\HtmlJavaScriptInjector\Console\obj\Release\netcoreapp1.1\Mmu.Hji.Console.dll
+C:\MyGit\Personal\HtmlJavaScriptInjector\Console\obj\Release\netcoreapp1.1\Mmu.Hji.Console.pdb
+C:\MyGit\Personal\HtmlJavaScriptInjector\Console\obj\Release\netcoreapp1.1\Mmu.Hji.Console.csprojResolveAssemblyReference.cache
